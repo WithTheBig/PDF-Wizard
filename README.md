@@ -1,6 +1,7 @@
 PDF-Wizard!
 
 🚀 Funktionen im Detail
+
 🔹 PDFs hinzufügen & zusammenführen
 Wähle mehrere PDFs aus.
 
