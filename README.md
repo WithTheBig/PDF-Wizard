@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3d2c19aa-22da-4e94-9387-4ab85d464e27)
+PDF-Wizard!
 
 🚀 Funktionen im Detail
 🔹 PDFs hinzufügen & zusammenführen
@@ -7,6 +7,7 @@ Wähle mehrere PDFs aus.
 Ordne sie in der gewünschten Reihenfolge an.
 
 Klicke auf "Merge PDFs", um sie zu kombinieren.
+![image](https://github.com/user-attachments/assets/3d2c19aa-22da-4e94-9387-4ab85d464e27)
 
 🔹 Benutzerdefinierte Reihenfolge
 PDFs hinzufügen.
